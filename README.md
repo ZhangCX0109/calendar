@@ -1,7 +1,7 @@
 # calendar-vue
 
 > vue简单的日历组件
-
+![](https://github.com/ZhangCX0109/calendar/blob/master/src/assets/show.png)
 ## Build Setup
 
 ``` bash
